@@ -34,18 +34,7 @@
             <tbody id="dados">
                 <tr>
                     <td>
-                        Marcelo Figueiredo Barbosa Júnior
-                    </td>
-                    <td>X</td>
-                    <td>X</td>
-                    <td>X</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>
-                        Marcelo Figueiredo Barbosa Júnior
+                        Expedito Hebert Firmino da Rocha
                     </td>
                     <td>X</td>
                     <td>X</td>
